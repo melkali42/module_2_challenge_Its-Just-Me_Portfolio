@@ -16,9 +16,9 @@ This is the URL for the deployed application: href:https://melkali42.github.io/m
 
 This is the URL for my Github repository for this challenge: https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio
 
-    ![screenshot](assets/images/https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio.PNG)
-    ![Screenshot 2](assets/images/https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%202.PNG)
-    ![Screenshot 3](assets/images/https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%203.PNG)
+    ![screenshot](https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio.PNG)
+    ![Screenshot 2](https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%202.PNG)
+    ![Screenshot 3](https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%203.PNG)
 
 
 ## Credits
