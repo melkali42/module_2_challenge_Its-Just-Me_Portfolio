@@ -16,14 +16,14 @@ This is the URL for the deployed application: href:https://melkali42.github.io/m
 
 This is the URL for my Github repository for this challenge: https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio
 
-    ![screenshot](assets/images/Screenshot%20of%20deployed%20portfolio.PNG)
-    ![Screenshot 2](assets/images/Screenshot%20of%20deployed%20portfolio%202.PNG)
-    ![Screenshot 3](assets/images/Screenshot%20of%20deployed%20portfolio%203.PNG)
+    ![screenshot](assets/images/https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio.PNG)
+    ![Screenshot 2](assets/images/https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%202.PNG)
+    ![Screenshot 3](assets/images/https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%203.PNG)
 
 
 ## Credits
 
-Creted by Melissa Kalish. I created both HTML and style.css code from scratch. I conducted several searches in https://google.com/, https://wwww.w3schools.com/ and https://stackoverflow.com/ for reserach, examples, viewing other users code, questions and answers. 
+Created by Melissa Kalish. I created both HTML and style.css codes from scratch. I conducted several searches in https://google.com/, https://wwww.w3schools.com/ and https://stackoverflow.com/ for reserach, examples, viewing other users code, questions and answers. 
 
 ## License
 
