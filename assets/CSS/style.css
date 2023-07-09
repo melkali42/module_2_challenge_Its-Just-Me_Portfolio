@@ -40,7 +40,7 @@
   }
   
   /* About me section styling */
-  #About {
+  About {
     background-color: #502e30;
     display: flex;
     flex-wrap: nowrap;
@@ -51,25 +51,25 @@
     font-size: 2rem;
   }
   
-  #About p {
+  About p {
     display: inline;
     background-color: #502e30;
     justify-content: space-between;
   }
   
   /* My Work section styling */
-  #Work {
+  Work {
     display: block;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
   } 
   
-  #Work{
+  Work{
     width: 95%;
   }
   
-  #Work a{
+  Work a{
     display: block;
     flex-grow: 1;
     padding: 10px;
@@ -77,7 +77,7 @@
     border-width: 1px;
   }
   
-  #Work a img{
+  Work a img{
     flex-grow: 1;
     padding: 10px;
   }
