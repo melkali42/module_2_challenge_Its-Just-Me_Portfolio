@@ -14,7 +14,7 @@ I used HTML and CSS for this challenge.
 
 This is the URL for the deployed application: href:https://melkali42.github.io/module_2_challenge_Its-Just-Me_Portfolio/
 
-This is the URL for my Github repository for this challenge: https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio
+This is the URL for my Github repository for this challenge: https://github.com/melkali42/module_2_challenge_Its-Just-Me_Portfolio
 
 ![screenshot 1](https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio.PNG)
 ![screenshot 2](https://github.com/melkali42/module_2_challenge_Its-Just-Me_Porfolio/blob/main/assets/images/Screenshot%20of%20deployed%20portfolio%202.PNG)
